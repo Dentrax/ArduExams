@@ -114,6 +114,7 @@ All program code (i.e. ino, .md) is licensed under MIT License unless otherwise 
 
 While this repository is being prepared, it may have been quoted from some sources. 
 
+- SDÜ, Dr. Turgay AYDOGAN Example Questions
 - http://www.cizgi-tagem.org
 - http://www.tankado.com
 - https://gelecegiyazanlar.turkcell.com.tr
