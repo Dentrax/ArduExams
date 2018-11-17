@@ -61,8 +61,11 @@ According to the distance, make an application that turn-on 4 LED in sequence.
 If the distance;
 
 a. If it is between 00-15cm, 4 LED,
+
 b. If it is between 15-30cm, 3 LED,
+
 c. If it is between 30-40cm, 2 LED,
+
 D. If it is between 40-60cm, 1 LED,
 
 ...will lit.
@@ -73,8 +76,11 @@ Displaying the distance on the LCD.
 If the distance;
 
 a. If it is between 00-15cm, TOO CLOSE
+
 b. If it is between 15-30cm, CLOSE
+
 c. If it is between 30-40cm, FAR
+
 D. If it is between 40-60cm, TOO FAR
 
 ...make the application that writes to the screen. 
@@ -85,12 +91,15 @@ The humidity and temperature information of the environment will be displayed on
 If the humidity rate is;
 
 a. Bigger than 70, the second row is "MORE MOISTURE"
+
 b. Between 50-70, the second row is "MOISTURE"
+
 c. Smaller than 50, it won't write any info
 
 Similarly, if the air temperature is;
 
 a. If it is under 25, it will write "HOT"
+
 b. If it is under 15, it will write "COLD"
 
 The bottom line will show both humidity and temperature warning information.
